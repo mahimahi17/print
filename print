@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class time
+{
+public class void main(Strings[]args)
+{
+double minutesInYear=60*24*365;
+Scanner input=new Scanner(System.in);
+System.out.println("input the number of minutes:");
+double min=input.nextDouble();
+long years=(long)(min/minutesInYear);
+int days=(int)min+"minutes is approxiamately"+years+"years and"+days+"days");
+}
+}
